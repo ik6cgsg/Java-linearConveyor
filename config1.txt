@@ -1,0 +1,4 @@
+src output.txt
+dst output1.txt
+
+conf dec.txt
